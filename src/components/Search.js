@@ -14,12 +14,12 @@ function Search() {
         <form className='search'>
             <div className='search__input'>
                 <SearchIcon className='search__inputIcon' />
-                <input value={input} onChange={e => setInput(e.target.value)}/>
+                <input value={input} onChange={e => setInput(e.target.value)} placeholder='Search Item'/>
             </div>
             <div><br/></div>
 
-            <div className="search__button">
-               <center><Button type='submit' onClick={search} variant="outlined">Fetch</Button></center> 
+            <div className="search__button" >
+               <center><Button className="button" style={{ 'background-color': 'rgb(11, 84, 153)' }} type='submit' onClick={search} variant="outlined">Fetch Price</Button></center> 
             </div>
         </form>
     )

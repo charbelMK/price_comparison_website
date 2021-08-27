@@ -16,32 +16,40 @@
 .home__header a {
     margin-right: 20px;
     text-decoration: inherit;
-    color: rgba(0,0,0,0.87);
+    color: white;
     font-size: 15px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .home__header a:hover {
     text-decoration: underline;
 }
-/*
+
 .home__headerLeft {
     display: flex;
     align-items: center;
-    min-width: 13vw;
+    min-width: 1vw;
     justify-content: space-between;
+    color: white;
 }
 
-*/
+.home__headerLeft:hover {
+    color: black;
+}
 
 .home__body {
     flex: 0;
     display: flex;
     margin-top: 0%;
     flex-direction: column;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .home__body > img {
     object-fit: contain;
-    height: 300px;
+    height: 290px;
     margin-bottom: 0%;
 }
+
+
+

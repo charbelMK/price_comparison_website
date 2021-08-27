@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
 import { Link } from "react-router-dom";
-import HomeRounded from '@material-ui/icons/HomeRounded';
+import GitHubIcon from '@material-ui/icons/GitHub';
 import logo from "./Logo.png";
 import Search from "./../components/Search";
 
@@ -11,7 +11,7 @@ function Home() {
             <div className='home__header'>
 
                 <div className='home__headerLeft'>
-                <HomeRounded />
+                <GitHubIcon />
                 </div>
 
                 <div className='home__headerRight'>
@@ -21,10 +21,12 @@ function Home() {
                 </div>
 
             </div>
-
+            
             <div className='home__body'>
                 <img
-                src={logo} alt="Logo"/>
+                src={logo} alt="Company Logo"/>
+                <center><important><p>Get the Best Deal!</p></important></center>
+                <center><important><p>Search and Compare the Price accross Online Stores</p></important></center>
             </div>
 
             <div className="inputContainer">
