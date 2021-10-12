@@ -1,0 +1,14 @@
+Date: Sun, 26 Sep 2021 06:40:14 GMT
+Content-Type: text/html
+Location: https://www.jumia.co.ke/groceries/?page=11
+Expires: Sun, 26 Sep 2021 06:50:14 GMT
+Cache-Control: max-age=600
+X-Lb: nginx-aws-c01
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 694a7fea6fd11b5f-NBO

@@ -1,0 +1,15 @@
+Date: Sun, 26 Sep 2021 06:10:20 GMT
+Content-Type: text/html
+Location: https://www.jumia.co.ke/robots.txt
+Expires: Sun, 26 Sep 2021 06:20:20 GMT
+Cache-Control: max-age=600
+X-Lb: nginx-aws-c01
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Cf-Cache-Status: EXPIRED
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 694a5417aeb21b5a-NBO

@@ -1,0 +1,21 @@
+Date: Sun, 26 Sep 2021 06:10:02 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Last-Modified: Thu, 01 Jul 2021 12:50:02 GMT
+Etag: W/"62da933d4e4c530aa63c9d0ca3019136"
+Expires: Sun, 26 Sep 2021 06:38:01 GMT
+Cache-Control: max-age=86400
+Cache-Control: no-transform
+X-Lb: nginx-aws-b01
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Oa: 1
+Content-Encoding: gzip
+Cf-Cache-Status: HIT
+Age: 84721
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Set-Cookie: __cf_bm=i4brrYpdvt78RaOZV7GA7NmEaYWzLozGLGmiEhgzma4-1632636602-0-AY6vtBw+YR/zYUyrRGTb7xm1HBI4rXRlDEeCI1FG5T10mtRUejdVWf+1sKv9x5sdBCSKdi/CmS+rKPKytbZKGCM=; path=/; expires=Sun, 26-Sep-21 06:40:02 GMT; domain=.jumia.co.ke; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 694a53aebde21b5f-NBO

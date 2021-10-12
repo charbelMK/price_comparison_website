@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: web_scraper_bot (bot@mycompany.com)
+Accept-Encoding: gzip, deflate
+Cookie: newsletter=1; sb-closed=true; ABTests=%5B%7B%22name%22%3A%22ShippingFees%22%2C%22scenario%22%3A%22B%22%2C%22updatedAt%22%3A1632223483%7D%2C%7B%22name%22%3A%22SearchABTest%22%2C%22scenario%22%3A%22popularity_price_rerank_size_rtp%22%2C%22updatedAt%22%3A1628605205%7D%2C%7B%22name%22%3A%22CLP%22%2C%22scenario%22%3A%22A%22%2C%22updatedAt%22%3A1622187401%7D%2C%7B%22name%22%3A%22SearchPerso%22%2C%22scenario%22%3A%22Y%22%2C%22updatedAt%22%3A1628243865%7D%2C%7B%22name%22%3A%22Cart%22%2C%22scenario%22%3A%22S%22%2C%22updatedAt%22%3A1621323098%7D%5D; userLanguage=en_KE; sponsoredUserId=657355923799530540261500ecf9c189; SOLSESSID=98126942018f532819973451d66d779c; __cf_bm=1m9Ela3Da_J5bX0WyT0KnBKqB.7nUzzMnPdE0x3TBD8-1632638362-0-AbQlGtep7mo7LLnOkGHw4lAf4S1pU0JQsr0N4+QdScDMzhSMS3UD6C3k3pMC5+/MllX6JgQQLUQnrH7ixSAahcY=

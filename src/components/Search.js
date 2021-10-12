@@ -63,6 +63,7 @@ function Search({ hideButtons = false }) {
     };
 
 
+
     return (
         <form className='search' autocomplete='on' onSubmit={search}>
             <div className='search__input'>
@@ -84,7 +85,5 @@ function Search({ hideButtons = false }) {
         </form>
     )
 }
-
-export const resToCard = result;
 
 export default Search

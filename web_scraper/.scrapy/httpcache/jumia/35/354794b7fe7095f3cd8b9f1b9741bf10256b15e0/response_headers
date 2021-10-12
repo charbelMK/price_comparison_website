@@ -1,0 +1,14 @@
+Date: Sun, 26 Sep 2021 06:40:50 GMT
+Content-Type: text/html
+Location: https://www.jumia.co.ke/sporting-goods/?page=24
+Expires: Sun, 26 Sep 2021 06:50:50 GMT
+Cache-Control: max-age=600
+X-Lb: nginx-aws-c01
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 694a80cd8b181b5f-NBO

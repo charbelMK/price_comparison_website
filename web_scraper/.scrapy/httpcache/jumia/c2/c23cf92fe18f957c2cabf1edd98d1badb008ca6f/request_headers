@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: web_scraper_bot (bot@mycompany.com)
+Accept-Encoding: gzip, deflate
+Cookie: __cf_bm=7LyxRCMjuY.n3MuWnRY0T7rLC2qyBPw9VnKKI9bf9C8-1632637301-0-ASJCPVDqEdRFtgl0/+qvTnuzdy1wmp9/ZkIS0R1j8a5L+HMkbZF2dmKyMvj4MjUXzlOZuJXedDWvdAo8PEi2xC0=; newsletter=1; sb-closed=true; ABTests=%5B%7B%22name%22%3A%22ShippingFees%22%2C%22scenario%22%3A%22B%22%2C%22updatedAt%22%3A1632223483%7D%2C%7B%22name%22%3A%22SearchABTest%22%2C%22scenario%22%3A%22popularity_price_rerank_size_rtp%22%2C%22updatedAt%22%3A1628605205%7D%2C%7B%22name%22%3A%22CLP%22%2C%22scenario%22%3A%22A%22%2C%22updatedAt%22%3A1622187401%7D%2C%7B%22name%22%3A%22SearchPerso%22%2C%22scenario%22%3A%22Y%22%2C%22updatedAt%22%3A1628243865%7D%2C%7B%22name%22%3A%22Cart%22%2C%22scenario%22%3A%22S%22%2C%22updatedAt%22%3A1621323098%7D%5D; userLanguage=en_KE; sponsoredUserId=657355923799530540261500ecf9c189

@@ -1,0 +1,28 @@
+Date: Sun, 26 Sep 2021 06:39:18 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: X-Device, X-Language, X-ABTests, X-Scenario, X-OS
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: no-transform
+Pragma: no-cache
+Set-Cookie: sb-closed=true; expires=Sun, 03-Oct-2021 06:39:18 GMT; path=/; domain=.jumia.co.ke
+Set-Cookie: SOLSESSID=98126942018f532819973451d66d779c; expires=Sun, 26-Sep-2021 07:03:18 GMT; path=/; domain=.jumia.co.ke; secure; httponly; samesite=Lax
+Set-Cookie: __cf_bm=lmvmeC6XVJYLXev1k9yV4WoyiBiWF37rOwXm8JxWHJQ-1632638358-0-AbJDLF3BF2DlWScklC+X9PPuOkTl6NHoOhFXfHhQkJ62nxAc5WqTwpy5yq4NYsmO9XEicDHD21Mih0g1RhUaGp0=; path=/; expires=Sun, 26-Sep-21 07:09:18 GMT; domain=.jumia.co.ke; HttpOnly; Secure; SameSite=None
+X-Cacheable: NO:Not Cacheable
+Age: 0
+X-Proxy: varnish-55657c754c-4kk6p
+X-Cache: MISS
+X-Cache-Hits: 0
+Access-Control-Allow-Origin: *
+X-Lb: nginx-aws-a01
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Oa: 1
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 694a7e8a3be81b5a-NBO
