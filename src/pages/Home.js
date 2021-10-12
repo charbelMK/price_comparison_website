@@ -4,8 +4,13 @@ import { Link } from "react-router-dom";
 import GitHubIcon from '@material-ui/icons/GitHub';
 import logo from "./Logo.png";
 import Search from "./../components/Search";
+import InfoIcon from '@material-ui/icons/Info';
+import ContactMailIcon from '@material-ui/icons/ContactMail';
+import HomeIcon from '@material-ui/icons/Home';
+import { Typography } from '@material-ui/core';
 
 function Home() {
+    
     return (
         <div className='home'>
             <div className='home__header'>
@@ -15,18 +20,26 @@ function Home() {
                 </div>
 
                 <div className='home__headerRight'>
-                    <Link to='/home'>Home</Link>
-                    <Link to='/about'>About</Link>
-                    <Link to='/contact'>Contact</Link>
+                    <Link to='/home'><HomeIcon/></Link>
+                    <Link to='/about'><InfoIcon /></Link>
+                    <Link to='/contact'><ContactMailIcon /></Link>
                 </div>
 
             </div>
             
             <div className='home__body'>
+                <div><br/></div>
+                <div><br/></div>
                 <img
                 src={logo} alt="Company Logo"/>
-                <center><important><p>Get the Best Deal!</p></important></center>
-                <center><important><p>Search and Compare the Price accross Online Stores</p></important></center>
+                <Typography
+                variant='subtitle1'
+                align='center'
+                color='textPrimary'
+                >
+                <p>Get the Best Deal!</p>
+                <p>Search and Compare the Price accross Online Stores.</p>
+                </Typography>
             </div>
 
             <div className="inputContainer">
