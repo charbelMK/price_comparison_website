@@ -7,11 +7,11 @@ import CardMedia from '@material-ui/core/CardMedia';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 
-export default function ProCard({ res }) {
+export default function ProCard() {
 
   return (
     <Card 
-    href={res.product_url}
+    href="product_url"
     sx={{
         maxWidth: 345
     }}>
@@ -20,15 +20,15 @@ export default function ProCard({ res }) {
           sx={{
             height: 300,
           }}
-          image={res.img_url}
-          title="Contemplative Reptile"
+          image = "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/68/225703/1.jpg?7454"
+          title="store"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="h2">
-            {res.price}
+            price
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-            {res.name}
+            name
           </Typography>
         </CardContent>
       </CardActionArea>

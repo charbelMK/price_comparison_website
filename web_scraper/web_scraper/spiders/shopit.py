@@ -4,11 +4,12 @@ import scrapy
 class ShopitSpider(scrapy.Spider):
     name = 'shopit'
     allowed_domains = ['shopit.co.ke/']
-    start_urls = ['httpk://shopit.co.ke/']
+    start_urls = ['https://shopit.co.ke/']
 
     def parse(self, response):
         for link in response.css('div.ut2-menu__inbox a::attr(href)'):
-            yield response.follow(link.get(), callback=self.parse_categories)
+            if link.get() != 'javascript:void(0)':
+                yield response.follow(link, callback=self.parse_categories)
 
     def parse_categories(self, response):
         products = response.css('div.ty-column4')

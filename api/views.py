@@ -7,6 +7,22 @@ api = Blueprint('api', __name__)
 
 CORS(api)
 
+# Endpoint to query db
+@api.route('/query_db', methods=['POST'], strict_slashes=False)
+def query_db():
+    name = request.json['input']
+
+    products_list = Jumia.query.all()
+    products = []
+
+    for product in products_list:
+        if name.lower() in product.name.lower():
+            products.append({'store': 'Jumia', 'name': product.name, 'price': product.price, 
+                            'product_url': product.product_url, 'img_url': product.img_url})
+        
+
+    return {'products' : products}    
+
 # Endpoint to update db
 @api.route('/add_products', methods=['POST'])
 def add_products():
@@ -27,7 +43,7 @@ def product():
     products = []
 
     for product in products_list:
-        products.append({'name': product.name, 'price': product.price, 
+        products.append({'store': 'Jumia', 'name': product.name, 'price': product.price, 
                         'product_url': product.product_url, 'img_url': product.img_url})
         
 

@@ -38,7 +38,7 @@ function Home() {
                 color='textPrimary'
                 >
                 <p>Get the Best Deal!</p>
-                <p>Search and Compare the Price accross Online Stores.</p>
+                <p>Search and Compare Prices accross Online Stores.</p>
                 </Typography>
             </div>
 
